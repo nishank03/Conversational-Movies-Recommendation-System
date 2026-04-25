@@ -8,7 +8,7 @@ A conversational recommender system (CRS) that uses large language models to sug
 
 | Voice Mode | Text Mode |
 |:---:|:---:|
-| ![Voice Mode](Images/image%201.png) | ![Text Mode](https://github.com/nishank03/Conversational-Movies-Recommendation-System/blob/main/Images/Text_Image.png) |
+| ![Voice Mode](https://github.com/nishank03/Conversational-Movies-Recommendation-System/blob/main/Images/Voice_Image.png) | ![Text Mode](https://github.com/nishank03/Conversational-Movies-Recommendation-System/blob/main/Images/Text_Image.png) |
 
 ---
 
