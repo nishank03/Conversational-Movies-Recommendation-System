@@ -1,0 +1,59 @@
+1
+
+User: Hi! I really loved Inception and Interstellar. Can you recommend something similar?
+Agent: Great taste! If you enjoyed the mind-bending sci-fi of "Inception" and the emotional depth of "Interstellar", you should check out "Source Code" — it's a tight time-loop thriller that keeps you guessing. "Edge of Tomorrow" is another solid pick — action-forward sci-fi with a simple but clever premise.
+
+2
+
+User: I just watched Pulp Fiction and thought it was amazing. What else has that kind of vibe?
+Agent: If you loved the non-linear storytelling and dark humour of "Pulp Fiction", you might enjoy "Knives Out" — it's a sharp whodunit with witty dialogue. For something with that same gritty crime drama feel, check out the Coen Brothers' work.
+
+3
+
+User: I'm in the mood for something tense and twisty, like a really good thriller. But nothing too gory.
+Agent: For a tense thriller without excessive gore, I'd recommend "Prisoners" — it's a slow-burn kidnapping mystery with incredible performances. "Gone Girl" is another great option — pure psychological tension with a jaw-dropping twist. You could also try "Zodiac" — a meticulous true-crime thriller that builds dread through investigation rather than violence.
+
+4
+
+User: I liked Se7en a lot. What's similar?
+Agent: Since you enjoyed "Se7en", you'd probably love "Shutter Island" — it has that same dark, atmospheric mystery with an unforgettable ending. "The Silence of the Lambs" is a must if you haven't seen it — the original psychological thriller masterpiece.
+
+5
+
+User: I want a feel-good comedy. Something from the 90s maybe?
+Agent: For 90s comedy gold, "Groundhog Day" is the perfect pick — Bill Murray at his best, funny and surprisingly heartwarming. "The Big Lebowski" is a cult classic if you're in the mood for something more offbeat and quotable.
+
+6
+
+User: Can you recommend a good comedy for a movie night with friends?
+Agent: For a fun movie night, "Superbad" never fails — it's hilarious and endlessly rewatchable. "The Hangover" is another crowd-pleaser with great ensemble chemistry.
+
+7
+
+User: I love animated movies, especially Japanese ones. What do you suggest?
+Agent: If you love Japanese animation, "Spirited Away" is an absolute masterpiece by Miyazaki — a magical coming-of-age story. "Your Name." is a more modern pick — a beautiful romance with stunning visuals and a clever time-bending plot.
+
+8
+
+User: I want a pure adrenaline action movie, something with amazing stunts.
+Agent: For pure adrenaline, "Mad Max: Fury Road" is unbeatable — two hours of non-stop practical stunts that will leave you breathless. "John Wick" is another excellent choice — clean, stylish action choreography at its finest.
+
+9
+
+User: I liked The Matrix a lot. Something with that same sci-fi action feel?
+Agent: Since you loved "The Matrix", you should definitely check out "Inception" — it has that same blend of mind-bending concepts with spectacular action. "Ex Machina" is a quieter sci-fi pick but equally thought-provoking if you're interested in the AI angle.
+
+10
+
+User: I'm a huge fan of crime movies. Give me the best ones.
+Agent: For the crime genre, it doesn't get better than "The Godfather" — the definitive mob epic. "Goodfellas" is essential viewing too — fast-paced, funny, and brutal. For something more modern, "No Country for Old Men" is a masterpiece of tension and moral ambiguity. And "Parasite" — while technically a thriller — has incredible social commentary wrapped in a crime-adjacent plot.
+
+11
+
+User: I want something cerebral, like a smart sci-fi film that makes you think.
+Agent: "Arrival" is exactly what you're looking for — a linguist decoding an alien language, with a reveal that fundamentally changes how you see the story. "Blade Runner 2049" is another deeply thoughtful sci-fi film with stunning visuals. And if you haven't seen "Inception" or "Source Code", both deliver clever concepts that reward attention.
+
+12
+
+User: I love horror movies. What are the best recent ones?
+Agent: For modern horror, "Get Out" is essential — it's sharp social commentary disguised as a thriller with genuine scares. "Hereditary" is devastating — slow-building psychological horror that stays with you long after. "Parasite" blends horror elements with thriller and dark comedy in a way that's completely unique. And if you want a classic, "Prisoners" and "Gone Girl" aren't horror per se but have that same unsettling dread.

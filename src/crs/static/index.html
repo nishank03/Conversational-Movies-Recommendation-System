@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MovieMate AI — Voice Recommender</title>
+    <meta name="description" content="AI-powered conversational movie recommender with real-time voice interaction.">
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Outfit:wght@400;600;700&display=swap" rel="stylesheet">
+    <!-- FontAwesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Styles -->
+    <link rel="stylesheet" href="/static/css/style.css?v=10">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Sidebar -->
+        <aside class="sidebar">
+            <div class="brand">
+                <div class="logo"><i class="fa-solid fa-film"></i></div>
+                <h1>MovieMate</h1>
+            </div>
+            <div class="sidebar-info">
+                <h3><i class="fa-solid fa-bolt"></i> Powered by</h3>
+                <div class="pill-group">
+                    <span class="pill">Agent CRS</span>
+                    <span class="pill">RAG + BM25</span>
+                    <span class="pill">ElevenLabs Voice</span>
+                </div>
+                <h3 class="mt-4"><i class="fa-solid fa-user"></i> Mock User</h3>
+                <p class="text-sm">Logged in as <b>user_001</b></p>
+                <div class="tags">
+                    <span>#Sci-Fi</span>
+                    <span>#MindBending</span>
+                </div>
+                <h3 class="mt-4"><i class="fa-solid fa-sliders"></i> Mode</h3>
+                <div class="mode-toggle" id="mode-toggle">
+                    <button class="mode-btn active" data-mode="voice" id="mode-voice-btn">
+                        <i class="fa-solid fa-microphone"></i> Voice
+                    </button>
+                    <button class="mode-btn" data-mode="text" id="mode-text-btn">
+                        <i class="fa-solid fa-keyboard"></i> Text
+                    </button>
+                </div>
+            </div>
+        </aside>
+
+        <!-- Chat Area -->
+        <main class="chat-area">
+            <header class="chat-header">
+                <h2>Movie Recommendations</h2>
+                <div class="status-indicator">
+                    <div class="dot online"></div>
+                    <span id="header-status">Ready</span>
+                </div>
+            </header>
+
+            <!-- Conversation transcript -->
+            <div class="chat-messages" id="chat-messages">
+                <div class="message system-intro">
+                    <div class="avatar"><i class="fa-solid fa-robot"></i></div>
+                    <div class="bubble">
+                        Hey! I'm MovieMate. Tap the mic and tell me what kind of movie you're in the mood for — I'll find the perfect pick and read it back to you!
+                    </div>
+                </div>
+            </div>
+
+            <!-- Voice Mode: Big central mic button -->
+            <div class="voice-area" id="voice-area">
+                <div class="voice-status" id="voice-status">Tap to speak</div>
+                <button class="voice-btn" id="voice-btn" title="Tap to speak">
+                    <div class="voice-btn-ring"></div>
+                    <i class="fa-solid fa-microphone"></i>
+                </button>
+                <div class="voice-hint" id="voice-hint"></div>
+            </div>
+
+            <!-- Text Mode: Standard chat input (hidden by default) -->
+            <div class="input-area hidden" id="text-area">
+                <div class="input-container">
+                    <textarea id="chat-input" placeholder="I want a mind-bending sci-fi movie..." rows="1"></textarea>
+                    <button class="icon-btn send-btn" id="send-btn" title="Send (Enter)">
+                        <i class="fa-solid fa-paper-plane"></i>
+                    </button>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <!-- Marked for Markdown Parsing -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="/static/js/app.js?v=10"></script>
+</body>
+</html>
